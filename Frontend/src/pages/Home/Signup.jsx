@@ -26,7 +26,7 @@ const SignUpPage = () => {
     }
 
     try {
-      const url = "http://localhost:5555/auth/register";
+      const url = "https://react-gym-app-snowy.vercel.app/auth/register";
       const { confirmPassword, ...filteredFormData } = formData; // Exclude confirmPassword
 
       const response = await fetch(url, {
