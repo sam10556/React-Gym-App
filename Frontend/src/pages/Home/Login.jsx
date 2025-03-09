@@ -19,7 +19,7 @@ const LoginPage = () => {
     e.preventDefault();
 
     try {
-      const url = "http://localhost:5555/auth/login";
+      const url = "https://react-gym-app-snowy.vercel.app/auth/login";
 
       const response = await fetch(url, {
         method: "POST",
