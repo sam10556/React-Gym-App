@@ -1,0 +1,58 @@
+{
+  "hash": "e6adc970",
+  "configHash": "c18a4020",
+  "lockfileHash": "b8209ee7",
+  "browserHash": "bab8589a",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "deb5b125",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "948eae9d",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "32a88654",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "82a58d90",
+      "needsInterop": false
+    },
+    "swiper/react": {
+      "src": "../../node_modules/swiper/swiper-react.mjs",
+      "file": "swiper_react.js",
+      "fileHash": "213a0230",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../node_modules/swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "52bd2e10",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PXJLUKTU": {
+      "file": "chunk-PXJLUKTU.js"
+    },
+    "chunk-FQO5W7GE": {
+      "file": "chunk-FQO5W7GE.js"
+    },
+    "chunk-G2E6JRDL": {
+      "file": "chunk-G2E6JRDL.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
